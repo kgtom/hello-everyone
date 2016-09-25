@@ -1,14 +1,15 @@
-自我评价:                                                                            
-性格开朗，懂得分享,有良好的团队协作精神
+自我评价: 
 
-自我驱动型，技术虽不是最好的，但是脚踏实地的，多努力 
+性格开朗，懂得分享,有良好的团队协作精神，积极参与Go线下活动
+
+自我驱动型，技术虽不是最好的，脚踏实地去做，没有天赋，靠勤奋 
 
 专业技能概要:（详见个人知识体系：http://www.cnblogs.com/lei2007/p/3118315.html）                                                                                   
 .net知识：
 
 •	 从事B\S研发，了解.NET 框架、熟悉设计模式
 
-•	 熟练 MVC+EF+WCF(WebApi)的SOA架构体系，Redis、PostgreSQL技术
+•	 熟练 MVC+EF+WCF(WebApi)的SOA架构体系，Nginx、Redis、PostgreSQL技术
 
 GO知识：
 
@@ -34,7 +35,7 @@ PMS采用是Beego+Bootstrap前端框架构建立，适合多终端，数据库�
 
 架构设计：
 
-尝试采用领域模式的设计，拆分业务。系统架构分Infrastructure 、Domain、Service、UI，基于MVC价格，前端BookStrap+AngularJs后端WebAPi 及Beego api的使用，目前逐渐向微服务理念去实践。Redis、OrmLite、Postgresql、NSQ的使用。
+尝试采用领域模式的设计，拆分业务。系统架构分Infrastructure 、Domain、Service、UI，基于MVC价格，前端BookStrap+AngularJs后端WebAPi 及Beego api的使用，目前逐渐向微服务理念去实践。Nginx、Redis、OrmLite、Postgresql、NSQ的使用。
 
 个人职责： 前期架构设计打磨，之后技术研究、db、api的设计及研发
 
