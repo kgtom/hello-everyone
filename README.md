@@ -13,9 +13,12 @@ GO知识：
 持续学习的知识：
 •	Go并发、Docker、ReactJs、 Linux
 
-项目经历                                                                        
+项目经历     
+
 2016年月 9– 今 PMS系统（业余时间基于GitHub开源软件进行修改）
+
 项目介绍：
+
 PMS采用是Beego+Bootstrap前端框架构建立，适合多终端，数据库采用Mysql，缓存采用Redis。 
 
 2015年08月 - 今  TMC企业差旅系统
